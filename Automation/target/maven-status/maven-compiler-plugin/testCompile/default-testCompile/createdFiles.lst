@@ -1,0 +1,4 @@
+pages\homePage.class
+pages\searchResultPage.class
+runner\testRunner.class
+stepDefinition\homePageStepDefs.class
